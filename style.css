@@ -1,0 +1,6 @@
+body { font-family: sans-serif; margin: 20px; }
+.controls { display: flex; justify-content: space-between; align-items: flex-start; }
+#checkboxes label { display: block; margin: 3px 0; }
+#dropdowns select { display: block; margin: 5px 0; }
+table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+td, th { border: 1px solid #ccc; padding: 6px 10px; }
