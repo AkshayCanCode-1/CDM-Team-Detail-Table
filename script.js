@@ -1,4 +1,4 @@
-const SHEET_API = "https://script.google.com/macros/s/XXXX/exec";
+const SHEET_API = "https://script.google.com/a/macros/tnschools.gov.in/s/AKfycbwGo1NHRpBlEmOvqfe4Sdh41Dxb3JU2LsAv6vas_0zAabsJ7AewlKbb3VICXYr7TkZ0kA/exec";
 
 let data = [], headers = [], selectedCols = new Set(["B"]);
 
