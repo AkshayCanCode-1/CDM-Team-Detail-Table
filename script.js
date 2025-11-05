@@ -1,4 +1,4 @@
-const SHEET_API = "https://script.google.com/a/macros/tnschools.gov.in/s/AKfycbwGo1NHRpBlEmOvqfe4Sdh41Dxb3JU2LsAv6vas_0zAabsJ7AewlKbb3VICXYr7TkZ0kA/exec";
+const SHEET_API = "https://script.googleusercontent.com/a/macros/tnschools.gov.in/echo?user_content_key=AehSKLglQSRqFlMRBqJ6MQJzGfJpffKu30tXhOhX_ZTWMRMaKisOJAVtSZzoBX47c4yg-OCYoxI5sY4RbReqjcc8ar2AwKYf75kz9zKDc3VAws4to937FcGYKFE3bw8I_SYNFIQ0gvuTKicC8lqLiqgLHLIq0bWfscrFoTq1Y3T2DVKKv5Uklyps5zPNpLPUuEjEQGMLT1f1r-mNwOml_WY6abxvx6OzuRlieRNYSAiEIxfMC4dymt8hqWouQ9h2TmxWH-zB2uznoorRekTRsy4NaFOpj-cMwOh5f7NPQOx48WqPkEtn_kAZbndOTotMGA&lib=Mu5Fm46180n3rlN6AdauIr6sKOIAj9uzK";
 
 let data = [], headers = [], selectedCols = new Set(["B"]);
 
